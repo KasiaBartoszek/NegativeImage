@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  DllC.cpp
+  dllmain.cpp
+     Creating library C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DllC.lib and object C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DllC.exp
+  Generating code
+  2 of 2 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DllC.vcxproj -> C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DllC.dll

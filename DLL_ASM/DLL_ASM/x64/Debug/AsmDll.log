@@ -1,0 +1,6 @@
+﻿  Assembling AsmDll.asm...
+AsmDll.asm(27): warning A6004: procedure argument or local not referenced : a
+AsmDll.asm(27): warning A6004: procedure argument or local not referenced : b
+     Creating library C:\Users\Kasia\source\repos\NegativeImageExample\x64\Debug\DLLAssembly.lib and object C:\Users\Kasia\source\repos\NegativeImageExample\x64\Debug\DLLAssembly.exp
+DLLAssembly.exp : warning LNK4070: /OUT:AsmDll.dll directive in .EXP differs from output filename 'C:\Users\Kasia\source\repos\NegativeImageExample\x64\Debug\DLLAssembly.dll'; ignoring directive
+  AsmDll.vcxproj -> C:\Users\Kasia\source\repos\NegativeImageExample\x64\Debug\DLLAssembly.dll

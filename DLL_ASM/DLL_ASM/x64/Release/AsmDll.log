@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (DLL_ASM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling AsmDll.asm...
+AsmDll.asm(27): warning A6004: procedure argument or local not referenced : a
+AsmDll.asm(27): warning A6004: procedure argument or local not referenced : b
+     Creating library C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DLLAssembly.lib and object C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DLLAssembly.exp
+DLLAssembly.exp : warning LNK4070: /OUT:AsmDll.dll directive in .EXP differs from output filename 'C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DLLAssembly.dll'; ignoring directive
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+DLLAssembly.exp : warning LNK4070: /OUT:AsmDll.dll directive in .EXP differs from output filename 'C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DLLAssembly.dll'; ignoring directive
+  AsmDll.vcxproj -> C:\Users\Kasia\source\repos\NegativeImageExample\x64\Release\DLLAssembly.dll

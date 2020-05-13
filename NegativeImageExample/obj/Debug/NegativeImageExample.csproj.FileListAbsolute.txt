@@ -1,0 +1,9 @@
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.csprojAssemblyReference.cache
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.Form1.resources
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.Properties.Resources.resources
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.csproj.GenerateResource.cache
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\bin\Debug\NegativeImageExample.exe
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\bin\Debug\NegativeImageExample.pdb
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.exe
+C:\Users\Kasia\source\repos\NegativeImageExample\NegativeImageExample\obj\Debug\NegativeImageExample.pdb
